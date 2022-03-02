@@ -5,6 +5,7 @@
 - Maven
 - Java 11
 - MYSQL
+- Spring Boot
 
 
 ## Endpoints

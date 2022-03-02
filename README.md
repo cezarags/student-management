@@ -21,7 +21,7 @@
 
 ## Model
 
-student {
+````student {
   "id": "Long",
   "name": "String",
   "identityNumber": "String",
@@ -34,6 +34,7 @@ student {
   "monthlyBill": "double",
   "lastPayDate": "LocalDate"
 }
+````
 
 
 

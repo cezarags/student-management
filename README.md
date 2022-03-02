@@ -21,7 +21,8 @@
 
 ## Model
 
-````student {
+````json
+student {
   "id": "Long",
   "name": "String",
   "identityNumber": "String",
